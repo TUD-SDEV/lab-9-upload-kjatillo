@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "6e231a18-05cd-406b-9588-bca21940b9e5",
+        "fields": {
+            "title": "Learn Python 3 the Hard Way",
+            "author": "Zed Shaw",
+            "price": "24.75",
+            "date_publication": "2013-09-19",
+            "cover": "covers/learn_python_3_the_hard_way.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "76de2108-e767-455d-808f-089cc89ef559",
+        "fields": {
+            "title": "Python Crash Course",
+            "author": "Eric Matthes",
+            "price": "21.99",
+            "date_publication": "2019-05-03",
+            "cover": "covers/python_crash_course.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "b75ce30f-5773-4d19-849f-20b8428f05ee",
+        "fields": {
+            "title": "Automate the Boring Stuff with Python",
+            "author": "Al Sweigart",
+            "price": "23.99",
+            "date_publication": "2015-04-14",
+            "cover": "covers/automate_the_boring_stuff_with_python.jpg"
+        }
+    }
+]
